@@ -2,7 +2,6 @@ package book;
 
 public class Main {
     public static void main(String[] args) {
-        // Create instances of the book, book pages, and printer
         Book learnAndCodeBook = new Book("Learn and Code", "John Doe",1,2);
         BookNavigator bookNavigator = new BookNavigator(learnAndCodeBook);
         
