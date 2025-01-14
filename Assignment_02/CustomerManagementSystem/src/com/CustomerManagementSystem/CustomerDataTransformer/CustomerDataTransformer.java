@@ -24,7 +24,7 @@ public class CustomerDataTransformer {
               .append(item.getContactName())
               .append(",")
               .append(item.getCountry())
-              .append("\n"); 
+              .append("\n"); // Add a new line after each entry
         }
         
         return sb.toString();

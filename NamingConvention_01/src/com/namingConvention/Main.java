@@ -1,7 +1,9 @@
 package com.namingConvention;
 
-import com.namingConvention.input.InputValue;
 import com.namingConvention.services.*;
+
+import com.namingConvention.input.InputValue;
+
 import java.util.*;
 
 public class Main {
